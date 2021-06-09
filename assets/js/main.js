@@ -4,7 +4,6 @@ const $burger = $('.hamburger');
 const $nav = $('.nav');
 const mainPhoto = $('.mystory__section-photo');
 const mainImg = $('.mystory__section-img');
-const btn = document.querySelector('.scrolltop-btn');
 
 $burger.on('click', function () {
 $('.hamburger, .nav__list').toggleClass('nav__list-active');
