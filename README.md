@@ -10,6 +10,8 @@ Live demo: [https://karolinaszymkowicz.pl/](https://karolinaszymkowicz.pl/)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Further plans](#further-plans)
+
 
 
 ## General Information
@@ -40,6 +42,11 @@ Live demo: [https://karolinaszymkowicz.pl/](https://karolinaszymkowicz.pl/)
 
 ## Setup
 Live demo: [https://karolinaszymkowicz.pl/](https://karolinaszymkowicz.pl/)
+
+## Further plans
+
+- improve SEO
+- make the template fully editable
 
 
 
