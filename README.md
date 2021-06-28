@@ -47,6 +47,7 @@ Live demo: [https://karolinaszymkowicz.pl/](https://karolinaszymkowicz.pl/)
 
 - improve SEO
 - make the template fully editable
+- work on improving accessibility
 
 
 
