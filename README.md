@@ -45,9 +45,8 @@ Live demo: [https://karolinaszymkowicz.pl/](https://karolinaszymkowicz.pl/)
 
 ## Further plans
 
-- improve SEO
-- make the template fully editable
-- work on improving accessibility
+- transformation to training platform
+
 
 
 
